@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 558,
-    "timeDay": 558,
-    "timeWeek": 558,
-    "timeMonth": 558,
-    "timeYear": 558,
+    "time": 570,
+    "timeDay": 570,
+    "timeWeek": 570,
+    "timeMonth": 570,
+    "timeYear": 570,
     "dailyMinutesDown": {}
   },
   {
@@ -28,52 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 259,
-    "timeWeek": 259,
-    "timeMonth": 259,
-    "timeYear": 259,
+    "time": 262,
+    "timeDay": 262,
+    "timeWeek": 262,
+    "timeMonth": 262,
+    "timeYear": 262,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "H1 swgas",
-    "url": "https://h1.swgas.com",
-    "icon": "https://favicons.githubusercontent.com/h1.swgas.com",
-    "slug": "h1-swgas",
-    "status": "down",
-    "uptime": "17.22%",
-    "uptimeDay": "17.22%",
-    "uptimeWeek": "17.22%",
-    "uptimeMonth": "17.22%",
-    "uptimeYear": "17.22%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-08-22": 18
-    }
-  },
-  {
-    "name": "H2 swgas",
-    "url": "https://h2.swgas.com",
-    "icon": "https://favicons.githubusercontent.com/h2.swgas.com",
-    "slug": "h2-swgas",
-    "status": "down",
-    "uptime": "16.98%",
-    "uptimeDay": "16.98%",
-    "uptimeWeek": "16.98%",
-    "uptimeMonth": "16.98%",
-    "uptimeYear": "16.98%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-08-22": 18
-    }
   },
   {
     "name": "Myaccount swgas",
@@ -86,31 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 484,
-    "timeDay": 484,
-    "timeWeek": 484,
-    "timeMonth": 484,
-    "timeYear": 484,
+    "time": 347,
+    "timeDay": 347,
+    "timeWeek": 347,
+    "timeMonth": 347,
+    "timeYear": 347,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "H2 swgas",
-    "url": "https://h2.swgas.com",
-    "icon": "https://favicons.githubusercontent.com/h2.swgas.com",
-    "slug": "h2-swgas",
-    "status": "down",
-    "uptime": "17.00%",
-    "uptimeDay": "17.00%",
-    "uptimeWeek": "17.00%",
-    "uptimeMonth": "17.00%",
-    "uptimeYear": "17.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-08-22": 18
-    }
   }
 ]
