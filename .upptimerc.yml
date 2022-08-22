@@ -8,9 +8,9 @@ sites:
   - name: NV Energy
     url: https://www.nvenergy.com
   - name: H1 swgas
-    url: h1.swgas.com
+    url: https://h1.swgas.com
   - name: H2 swgas
-    url: h2.swgas.com
+    url: https://h2.swgas.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
