@@ -11,6 +11,10 @@ sites:
     url: https://h1.swgas.com
   - name: H2 swgas
     url: https://h2.swgas.com
+  - name: Myaccount swgas
+    url: https://myaccount.swgas.com
+  - name: H2 swgas
+    url: https://h2.swgas.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
