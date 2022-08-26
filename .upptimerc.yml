@@ -9,6 +9,10 @@ sites:
     url: https://www.nvenergy.com
   - name: Myaccount swgas
     url: https://myaccount.swgas.com
+  - name: h1www.swgas.com
+    url: https://h1www.swgas.com
+  - name: h2www.swgas.com
+    url: https://h2www.swgas.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
