@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 664,
-    "timeDay": 272,
-    "timeWeek": 760,
-    "timeMonth": 638,
-    "timeYear": 664,
+    "time": 662,
+    "timeDay": 358,
+    "timeWeek": 661,
+    "timeMonth": 629,
+    "timeYear": 662,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nvenergy.com.ico",
     "slug": "nv-energy",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 276,
-    "timeDay": 277,
-    "timeWeek": 326,
-    "timeMonth": 269,
-    "timeYear": 276,
-    "dailyMinutesDown": {
-      "2022-12-02": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 275,
+    "timeDay": 266,
+    "timeWeek": 303,
+    "timeMonth": 266,
+    "timeYear": 275,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Myaccount swgas",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 342,
-    "timeDay": 272,
-    "timeWeek": 412,
-    "timeMonth": 314,
-    "timeYear": 342,
+    "time": 340,
+    "timeDay": 137,
+    "timeWeek": 358,
+    "timeMonth": 310,
+    "timeYear": 340,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 736,
-    "timeDay": 232,
-    "timeWeek": 1346,
-    "timeMonth": 793,
-    "timeYear": 736,
+    "time": 731,
+    "timeDay": 262,
+    "timeWeek": 1244,
+    "timeMonth": 778,
+    "timeYear": 731,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 688,
-    "timeDay": 254,
-    "timeWeek": 727,
-    "timeMonth": 605,
-    "timeYear": 688,
+    "time": 684,
+    "timeDay": 252,
+    "timeWeek": 639,
+    "timeMonth": 594,
+    "timeYear": 684,
     "dailyMinutesDown": {}
   }
 ]
