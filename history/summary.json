@@ -40,18 +40,20 @@
     "url": "https://myaccount.swgas.com",
     "icon": "https://icons.duckduckgo.com/ip3/myaccount.swgas.com.ico",
     "slug": "myaccount-swgas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 204,
-    "timeWeek": 284,
-    "timeMonth": 280,
-    "timeYear": 329,
-    "dailyMinutesDown": {}
+    "time": 330,
+    "timeDay": 341,
+    "timeWeek": 308,
+    "timeMonth": 286,
+    "timeYear": 330,
+    "dailyMinutesDown": {
+      "2023-01-18": 0
+    }
   },
   {
     "name": "h1www.swgas.com",
