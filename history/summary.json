@@ -22,18 +22,20 @@
     "url": "https://www.nvenergy.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.nvenergy.com.ico",
     "slug": "nv-energy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 262,
-    "timeDay": 269,
-    "timeWeek": 167,
-    "timeMonth": 214,
-    "timeYear": 262,
-    "dailyMinutesDown": {}
+    "time": 261,
+    "timeDay": 203,
+    "timeWeek": 163,
+    "timeMonth": 212,
+    "timeYear": 261,
+    "dailyMinutesDown": {
+      "2023-02-02": 0
+    }
   },
   {
     "name": "Myaccount swgas",
