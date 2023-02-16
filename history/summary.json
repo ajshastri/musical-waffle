@@ -82,18 +82,19 @@
     "url": "https://h2www.swgas.com",
     "icon": "https://icons.duckduckgo.com/ip3/h2www.swgas.com.ico",
     "slug": "h2www-swgas-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 626,
-    "timeDay": 258,
-    "timeWeek": 572,
-    "timeMonth": 543,
-    "timeYear": 626,
+    "time": 625,
+    "timeDay": 298,
+    "timeWeek": 546,
+    "timeMonth": 536,
+    "timeYear": 625,
     "dailyMinutesDown": {
+      "2023-02-16": 0,
       "2022-12-16": 91
     }
   }
