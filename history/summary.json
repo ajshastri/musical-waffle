@@ -6,18 +6,16 @@
     "slug": "southwest-gas",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 631,
-    "timeDay": 288,
-    "timeWeek": 632,
-    "timeMonth": 584,
-    "timeYear": 631,
-    "dailyMinutesDown": {
-      "2023-02-24": 6
-    }
+    "time": 630,
+    "timeDay": 386,
+    "timeWeek": 563,
+    "timeMonth": 586,
+    "timeYear": 630,
+    "dailyMinutesDown": {}
   },
   {
     "name": "NV Energy",
@@ -31,9 +29,9 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.96%",
     "time": 264,
-    "timeDay": 128,
-    "timeWeek": 290,
-    "timeMonth": 255,
+    "timeDay": 253,
+    "timeWeek": 267,
+    "timeMonth": 259,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2023-02-02": 118
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 326,
-    "timeDay": 125,
-    "timeWeek": 326,
-    "timeMonth": 300,
+    "timeDay": 240,
+    "timeWeek": 294,
+    "timeMonth": 302,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2023-01-18": 137
@@ -71,9 +69,9 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.95%",
     "time": 668,
-    "timeDay": 243,
-    "timeWeek": 665,
-    "timeMonth": 590,
+    "timeDay": 725,
+    "timeWeek": 637,
+    "timeMonth": 605,
     "timeYear": 668,
     "dailyMinutesDown": {
       "2023-02-17": 70,
@@ -92,11 +90,11 @@
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.89%",
-    "time": 677,
-    "timeDay": 4108,
-    "timeWeek": 1799,
-    "timeMonth": 830,
-    "timeYear": 677,
+    "time": 675,
+    "timeDay": 4148,
+    "timeWeek": 1748,
+    "timeMonth": 836,
+    "timeYear": 675,
     "dailyMinutesDown": {
       "2023-02-24": 23,
       "2023-02-16": 176,
