@@ -28,9 +28,9 @@
     "slug": "nv-energy",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 308,
     "timeDay": 397,
@@ -38,7 +38,7 @@
     "timeMonth": 308,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2023-06-01": 0,
+      "2023-06-01": 24,
       "2023-04-22": 30,
       "2023-02-02": 118
     }
