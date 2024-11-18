@@ -4,11 +4,11 @@
     "url": "https://www.swgas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.swgas.com.ico",
     "slug": "southwest-gas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "94.71%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "95.36%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
     "time": 736,
     "timeDay": 514,
@@ -16,7 +16,7 @@
     "timeMonth": 748,
     "timeYear": 739,
     "dailyMinutesDown": {
-      "2024-11-18": 76
+      "2024-11-18": 67
     }
   },
   {
@@ -99,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/h2www.swgas.com.ico",
     "slug": "h2www-swgas-com",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "94.31%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.89%",
+    "uptimeDay": "87.20%",
+    "uptimeWeek": "98.17%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.92%",
     "time": 712,
     "timeDay": 180,
     "timeWeek": 554,
     "timeMonth": 712,
     "timeYear": 727,
     "dailyMinutesDown": {
-      "2024-11-18": 82,
+      "2024-11-18": 184,
       "2024-08-22": 76,
       "2024-06-06": 47,
       "2024-02-15": 126
