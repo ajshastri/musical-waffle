@@ -4,10 +4,10 @@
     "url": "https://www.swgas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.swgas.com.ico",
     "slug": "southwest-gas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 736,
@@ -15,7 +15,9 @@
     "timeWeek": 617,
     "timeMonth": 757,
     "timeYear": 740,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-18": 1
+    }
   },
   {
     "name": "NV Energy",
@@ -96,9 +98,9 @@
     "url": "https://h2www.swgas.com",
     "icon": "https://icons.duckduckgo.com/ip3/h2www.swgas.com.ico",
     "slug": "h2www-swgas-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -108,6 +110,7 @@
     "timeMonth": 712,
     "timeYear": 727,
     "dailyMinutesDown": {
+      "2024-11-18": 0,
       "2024-08-22": 76,
       "2024-06-06": 47,
       "2024-02-15": 126
