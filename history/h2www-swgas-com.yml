@@ -1,7 +1,7 @@
 url: https://h2www.swgas.com
-status: up
-code: 200
-responseTime: 639
-lastUpdated: 2025-11-07T23:12:59.061Z
+status: down
+code: 503
+responseTime: 378
+lastUpdated: 2025-11-08T21:29:47.718Z
 startTime: 2022-08-26T15:43:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
