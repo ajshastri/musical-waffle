@@ -4,18 +4,19 @@
     "url": "https://www.swgas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.swgas.com.ico",
     "slug": "southwest-gas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "97.83%",
     "uptimeYear": "99.44%",
     "time": 675,
-    "timeDay": 366,
-    "timeWeek": 639,
-    "timeMonth": 591,
+    "timeDay": 382,
+    "timeWeek": 632,
+    "timeMonth": 593,
     "timeYear": 666,
     "dailyMinutesDown": {
+      "2025-11-12": 0,
       "2025-11-11": 21,
       "2025-11-07": 21,
       "2025-11-01": 22,
@@ -80,8 +81,7 @@
       "2025-06-25": 16,
       "2025-06-23": 26,
       "2025-06-22": 15,
-      "2025-06-18": 18,
-      "2025-06-17": 16
+      "2025-06-18": 18
     }
   },
   {
@@ -223,17 +223,17 @@
     "url": "https://h1www.swgas.com",
     "icon": "https://icons.duckduckgo.com/ip3/h1www.swgas.com.ico",
     "slug": "h1www-swgas-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "95.16%",
+    "uptimeDay": "95.14%",
     "uptimeWeek": "98.60%",
     "uptimeMonth": "98.50%",
     "uptimeYear": "99.50%",
     "time": 645,
-    "timeDay": 451,
-    "timeWeek": 552,
-    "timeMonth": 580,
-    "timeYear": 633,
+    "timeDay": 452,
+    "timeWeek": 549,
+    "timeMonth": 581,
+    "timeYear": 632,
     "dailyMinutesDown": {
       "2025-11-12": 70,
       "2025-11-11": 21,
@@ -301,8 +301,7 @@
       "2025-06-26": 16,
       "2025-06-25": 15,
       "2025-06-23": 26,
-      "2025-06-18": 18,
-      "2025-06-17": 15
+      "2025-06-18": 18
     }
   },
   {
@@ -314,12 +313,12 @@
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.38%",
+    "uptimeMonth": "98.57%",
     "uptimeYear": "99.33%",
     "time": 706,
     "timeDay": 112,
     "timeWeek": 615,
-    "timeMonth": 683,
+    "timeMonth": 622,
     "timeYear": 705,
     "dailyMinutesDown": {
       "2025-10-30": 41,
