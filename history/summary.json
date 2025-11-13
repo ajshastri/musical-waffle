@@ -4,11 +4,11 @@
     "url": "https://www.swgas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.swgas.com.ico",
     "slug": "southwest-gas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "98.83%",
+    "uptimeDay": "98.82%",
     "uptimeWeek": "99.41%",
-    "uptimeMonth": "98.53%",
+    "uptimeMonth": "98.56%",
     "uptimeYear": "99.44%",
     "time": 673,
     "timeDay": 542,
@@ -80,8 +80,7 @@
       "2025-06-26": 16,
       "2025-06-25": 16,
       "2025-06-23": 26,
-      "2025-06-22": 15,
-      "2025-06-18": 18
+      "2025-06-22": 15
     }
   },
   {
@@ -225,17 +224,17 @@
     "slug": "h1www-swgas-com",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "96.50%",
-    "uptimeWeek": "98.10%",
-    "uptimeMonth": "98.49%",
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "98.52%",
     "uptimeYear": "99.50%",
     "time": 643,
     "timeDay": 571,
     "timeWeek": 561,
-    "timeMonth": 580,
+    "timeMonth": 581,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2025-11-13": 51,
+      "2025-11-13": 38,
       "2025-11-12": 70,
       "2025-11-11": 21,
       "2025-11-10": 29,
@@ -300,7 +299,8 @@
       "2025-07-04": 16,
       "2025-07-01": 23,
       "2025-06-26": 16,
-      "2025-06-25": 15
+      "2025-06-25": 15,
+      "2025-06-23": 26
     }
   },
   {
@@ -308,18 +308,19 @@
     "url": "https://h2www.swgas.com",
     "icon": "https://icons.duckduckgo.com/ip3/h2www.swgas.com.ico",
     "slug": "h2www-swgas-com",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.71%",
-    "uptimeYear": "99.33%",
+    "uptimeYear": "99.43%",
     "time": 705,
     "timeDay": 188,
     "timeWeek": 565,
     "timeMonth": 554,
     "timeYear": 705,
     "dailyMinutesDown": {
+      "2025-11-13": 0,
       "2025-10-30": 41,
       "2025-10-29": 83,
       "2025-10-28": 43,
@@ -383,8 +384,7 @@
       "2025-06-18": 17,
       "2025-06-17": 20,
       "2025-06-08": 22,
-      "2024-11-19": 339,
-      "2024-11-18": 443
+      "2024-11-19": 258
     }
   }
 ]
