@@ -93,12 +93,12 @@
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
     "time": 360,
     "timeDay": 170,
     "timeWeek": 322,
-    "timeMonth": 343,
+    "timeMonth": 348,
     "timeYear": 362,
     "dailyMinutesDown": {
       "2025-10-14": 18,
@@ -223,15 +223,15 @@
     "url": "https://h1www.swgas.com",
     "icon": "https://icons.duckduckgo.com/ip3/h1www.swgas.com.ico",
     "slug": "h1www-swgas-com",
-    "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "97.46%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "97.44%",
     "uptimeWeek": "98.07%",
     "uptimeMonth": "98.48%",
     "uptimeYear": "99.50%",
     "time": 642,
-    "timeDay": 573,
-    "timeWeek": 563,
+    "timeDay": 577,
+    "timeWeek": 564,
     "timeMonth": 580,
     "timeYear": 631,
     "dailyMinutesDown": {
@@ -300,8 +300,7 @@
       "2025-07-05": 64,
       "2025-07-04": 16,
       "2025-07-01": 23,
-      "2025-06-26": 16,
-      "2025-06-25": 15
+      "2025-06-26": 16
     }
   },
   {
