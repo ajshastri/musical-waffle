@@ -87,10 +87,10 @@
     "url": "https://www.nvenergy.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.nvenergy.com.ico",
     "slug": "nv-energy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.30%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.29%",
     "uptimeMonth": "97.73%",
     "uptimeYear": "98.27%",
     "time": 359,
@@ -99,7 +99,7 @@
     "timeMonth": 348,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2025-07-22": 45,
+      "2025-07-22": 17,
       "2025-07-24": 41,
       "2025-07-25": 33,
       "2025-07-26": 48,
@@ -182,7 +182,8 @@
       "2026-06-17": 171,
       "2026-06-29": 52,
       "2026-07-01": 2,
-      "2026-06-30": 17
+      "2026-06-30": 17,
+      "2026-07-04": 0
     }
   },
   {
