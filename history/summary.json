@@ -4,16 +4,16 @@
     "url": "https://www.swgas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.swgas.com.ico",
     "slug": "southwest-gas",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "90.62%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.43%",
+    "uptimeDay": "86.71%",
+    "uptimeWeek": "98.10%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.42%",
     "time": 651,
-    "timeDay": 871,
-    "timeWeek": 691,
-    "timeMonth": 685,
+    "timeDay": 817,
+    "timeWeek": 700,
+    "timeMonth": 688,
     "timeYear": 645,
     "dailyMinutesDown": {
       "2025-07-23": 78,
@@ -76,7 +76,7 @@
       "2025-11-22": 15,
       "2025-11-23": 15,
       "2026-04-09": 33,
-      "2026-07-22": 135
+      "2026-07-22": 191
     }
   },
   {
@@ -84,16 +84,16 @@
     "url": "https://www.nvenergy.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.nvenergy.com.ico",
     "slug": "nv-energy",
-    "status": "down",
+    "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "90.95%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "98.89%",
-    "uptimeYear": "98.21%",
+    "uptimeDay": "87.05%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "98.19%",
     "time": 355,
-    "timeDay": 443,
-    "timeWeek": 349,
-    "timeMonth": 334,
+    "timeDay": 427,
+    "timeWeek": 357,
+    "timeMonth": 336,
     "timeYear": 351,
     "dailyMinutesDown": {
       "2025-07-25": 33,
@@ -181,7 +181,7 @@
       "2026-07-04": 165,
       "2026-07-05": 54,
       "2026-07-12": 67,
-      "2026-07-22": 130
+      "2026-07-22": 187
     }
   },
   {
@@ -189,16 +189,16 @@
     "url": "https://myaccount.swgas.com",
     "icon": "https://icons.duckduckgo.com/ip3/myaccount.swgas.com.ico",
     "slug": "myaccount-swgas",
-    "status": "down",
+    "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "90.97%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.45%",
+    "uptimeDay": "87.07%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.44%",
     "time": 414,
-    "timeDay": 881,
-    "timeWeek": 448,
-    "timeMonth": 376,
+    "timeDay": 701,
+    "timeWeek": 436,
+    "timeMonth": 375,
     "timeYear": 418,
     "dailyMinutesDown": {
       "2025-07-23": 22,
@@ -230,7 +230,7 @@
       "2025-12-03": 44,
       "2025-12-11": 22,
       "2026-02-08": 22,
-      "2026-07-22": 130
+      "2026-07-22": 186
     }
   },
   {
@@ -238,16 +238,16 @@
     "url": "https://h1www.swgas.com",
     "icon": "https://icons.duckduckgo.com/ip3/h1www.swgas.com.ico",
     "slug": "h1www-swgas-com",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "91.30%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.48%",
-    "time": 619,
-    "timeDay": 883,
-    "timeWeek": 712,
-    "timeMonth": 698,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "87.40%",
+    "uptimeWeek": "98.20%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.46%",
+    "time": 618,
+    "timeDay": 917,
+    "timeWeek": 742,
+    "timeMonth": 706,
     "timeYear": 615,
     "dailyMinutesDown": {
       "2025-07-23": 22,
@@ -315,7 +315,7 @@
       "2025-11-22": 15,
       "2025-11-23": 15,
       "2025-11-29": 33,
-      "2026-07-22": 125
+      "2026-07-22": 181
     }
   },
   {
@@ -323,15 +323,15 @@
     "url": "https://h2www.swgas.com",
     "icon": "https://icons.duckduckgo.com/ip3/h2www.swgas.com.ico",
     "slug": "h2www-swgas-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "91.64%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.51%",
-    "time": 686,
-    "timeDay": 714,
-    "timeWeek": 611,
+    "uptimeDay": "87.74%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.50%",
+    "time": 685,
+    "timeDay": 684,
+    "timeWeek": 616,
     "timeMonth": 635,
     "timeYear": 688,
     "dailyMinutesDown": {
@@ -388,7 +388,7 @@
       "2025-10-29": 83,
       "2025-10-30": 41,
       "2026-04-09": 33,
-      "2026-07-22": 120
+      "2026-07-22": 177
     }
   }
 ]
