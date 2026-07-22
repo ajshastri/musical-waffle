@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.swgas.com.ico",
     "slug": "southwest-gas",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.46%",
+    "uptime": "99.85%",
+    "uptimeDay": "90.62%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.43%",
     "time": 651,
     "timeDay": 871,
     "timeWeek": 691,
@@ -76,7 +76,7 @@
       "2025-11-22": 15,
       "2025-11-23": 15,
       "2026-04-09": 33,
-      "2026-07-22": 15
+      "2026-07-22": 135
     }
   },
   {
@@ -85,11 +85,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nvenergy.com.ico",
     "slug": "nv-energy",
     "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "98.23%",
+    "uptime": "99.54%",
+    "uptimeDay": "90.95%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "98.21%",
     "time": 355,
     "timeDay": 443,
     "timeWeek": 349,
@@ -181,7 +181,7 @@
       "2026-07-04": 165,
       "2026-07-05": 54,
       "2026-07-12": 67,
-      "2026-07-22": 10
+      "2026-07-22": 130
     }
   },
   {
@@ -190,11 +190,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/myaccount.swgas.com.ico",
     "slug": "myaccount-swgas",
     "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.47%",
+    "uptime": "99.76%",
+    "uptimeDay": "90.97%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.45%",
     "time": 414,
     "timeDay": 881,
     "timeWeek": 448,
@@ -230,7 +230,7 @@
       "2025-12-03": 44,
       "2025-12-11": 22,
       "2026-02-08": 22,
-      "2026-07-22": 10
+      "2026-07-22": 130
     }
   },
   {
@@ -240,10 +240,10 @@
     "slug": "h1www-swgas-com",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "91.30%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.48%",
     "time": 619,
     "timeDay": 883,
     "timeWeek": 712,
@@ -315,7 +315,7 @@
       "2025-11-22": 15,
       "2025-11-23": 15,
       "2025-11-29": 33,
-      "2026-07-22": 5
+      "2026-07-22": 125
     }
   },
   {
@@ -324,11 +324,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/h2www.swgas.com.ico",
     "slug": "h2www-swgas-com",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.54%",
+    "uptime": "99.86%",
+    "uptimeDay": "91.64%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.51%",
     "time": 686,
     "timeDay": 714,
     "timeWeek": 611,
@@ -388,7 +388,7 @@
       "2025-10-29": 83,
       "2025-10-30": 41,
       "2026-04-09": 33,
-      "2026-07-22": 1
+      "2026-07-22": 120
     }
   }
 ]
