@@ -4,16 +4,16 @@
     "url": "https://www.swgas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.swgas.com.ico",
     "slug": "southwest-gas",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.46%",
     "time": 651,
-    "timeDay": 903,
-    "timeWeek": 704,
-    "timeMonth": 671,
+    "timeDay": 871,
+    "timeWeek": 691,
+    "timeMonth": 685,
     "timeYear": 645,
     "dailyMinutesDown": {
       "2025-07-23": 78,
@@ -75,7 +75,8 @@
       "2025-11-16": 86,
       "2025-11-22": 15,
       "2025-11-23": 15,
-      "2026-04-09": 33
+      "2026-04-09": 33,
+      "2026-07-22": 15
     }
   },
   {
@@ -83,19 +84,18 @@
     "url": "https://www.nvenergy.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.nvenergy.com.ico",
     "slug": "nv-energy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.18%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.16%",
     "uptimeYear": "98.23%",
     "time": 355,
-    "timeDay": 462,
-    "timeWeek": 338,
-    "timeMonth": 329,
+    "timeDay": 443,
+    "timeWeek": 349,
+    "timeMonth": 334,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2025-07-24": 17,
       "2025-07-25": 33,
       "2025-07-26": 48,
       "2025-07-27": 107,
@@ -180,7 +180,8 @@
       "2026-06-30": 17,
       "2026-07-04": 165,
       "2026-07-05": 54,
-      "2026-07-12": 67
+      "2026-07-12": 67,
+      "2026-07-22": 10
     }
   },
   {
@@ -188,17 +189,17 @@
     "url": "https://myaccount.swgas.com",
     "icon": "https://icons.duckduckgo.com/ip3/myaccount.swgas.com.ico",
     "slug": "myaccount-swgas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.47%",
-    "time": 413,
-    "timeDay": 514,
-    "timeWeek": 332,
-    "timeMonth": 337,
-    "timeYear": 416,
+    "time": 414,
+    "timeDay": 881,
+    "timeWeek": 448,
+    "timeMonth": 376,
+    "timeYear": 418,
     "dailyMinutesDown": {
       "2025-07-23": 22,
       "2025-07-24": 30,
@@ -228,7 +229,8 @@
       "2025-11-19": 34,
       "2025-12-03": 44,
       "2025-12-11": 22,
-      "2026-02-08": 22
+      "2026-02-08": 22,
+      "2026-07-22": 10
     }
   },
   {
@@ -236,19 +238,19 @@
     "url": "https://h1www.swgas.com",
     "icon": "https://icons.duckduckgo.com/ip3/h1www.swgas.com.ico",
     "slug": "h1www-swgas-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.49%",
-    "time": 618,
-    "timeDay": 840,
-    "timeWeek": 714,
-    "timeMonth": 681,
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.50%",
+    "time": 619,
+    "timeDay": 883,
+    "timeWeek": 712,
+    "timeMonth": 698,
     "timeYear": 615,
     "dailyMinutesDown": {
-      "2025-07-23": 49,
+      "2025-07-23": 22,
       "2025-07-24": 23,
       "2025-07-31": 20,
       "2025-08-01": 109,
@@ -312,7 +314,8 @@
       "2025-11-21": 67,
       "2025-11-22": 15,
       "2025-11-23": 15,
-      "2025-11-29": 33
+      "2025-11-29": 33,
+      "2026-07-22": 5
     }
   },
   {
@@ -320,16 +323,16 @@
     "url": "https://h2www.swgas.com",
     "icon": "https://icons.duckduckgo.com/ip3/h2www.swgas.com.ico",
     "slug": "h2www-swgas-com",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
     "time": 686,
-    "timeDay": 745,
-    "timeWeek": 639,
-    "timeMonth": 630,
+    "timeDay": 714,
+    "timeWeek": 611,
+    "timeMonth": 635,
     "timeYear": 688,
     "dailyMinutesDown": {
       "2025-07-23": 75,
@@ -384,7 +387,8 @@
       "2025-10-28": 43,
       "2025-10-29": 83,
       "2025-10-30": 41,
-      "2026-04-09": 33
+      "2026-04-09": 33,
+      "2026-07-22": 1
     }
   }
 ]
