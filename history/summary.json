@@ -4,15 +4,15 @@
     "url": "https://www.swgas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.swgas.com.ico",
     "slug": "southwest-gas",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.58%",
+    "uptimeDay": "97.20%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.57%",
     "time": 647,
-    "timeDay": 0,
-    "timeWeek": 756,
+    "timeDay": 634,
+    "timeWeek": 739,
     "timeMonth": 624,
     "timeYear": 653,
     "dailyMinutesDown": {
@@ -54,7 +54,7 @@
       "2026-08-29": 113,
       "2026-09-08": 13,
       "2026-09-07": 109,
-      "2026-09-21": 10
+      "2026-09-21": 40
     }
   },
   {
@@ -187,16 +187,16 @@
     "url": "https://h1www.swgas.com",
     "icon": "https://icons.duckduckgo.com/ip3/h1www.swgas.com.ico",
     "slug": "h1www-swgas-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.43%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "99.61%",
     "time": 613,
-    "timeDay": 0,
-    "timeWeek": 726,
-    "timeMonth": 603,
+    "timeDay": 470,
+    "timeWeek": 690,
+    "timeMonth": 599,
     "timeYear": 614,
     "dailyMinutesDown": {
       "2025-09-22": 18,
@@ -242,7 +242,7 @@
       "2026-08-29": 108,
       "2026-09-08": 13,
       "2026-09-07": 99,
-      "2026-09-21": 5
+      "2026-09-21": 36
     }
   },
   {
@@ -250,16 +250,16 @@
     "url": "https://h2www.swgas.com",
     "icon": "https://icons.duckduckgo.com/ip3/h2www.swgas.com.ico",
     "slug": "h2www-swgas-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.67%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.66%",
     "time": 702,
-    "timeDay": 0,
-    "timeWeek": 732,
-    "timeMonth": 614,
+    "timeDay": 605,
+    "timeWeek": 714,
+    "timeMonth": 613,
     "timeYear": 723,
     "dailyMinutesDown": {
       "2025-09-22": 18,
@@ -293,7 +293,7 @@
       "2026-08-29": 103,
       "2026-09-08": 13,
       "2026-09-07": 94,
-      "2026-09-21": 0
+      "2026-09-21": 31
     }
   }
 ]
